@@ -11,22 +11,22 @@ I'm **Godwin Iheuwa**, a passionate DevOps Engineer with a strong background in 
 ## 🛠️ Technologies and Tools
 
 **Cloud:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
 
 **Infrastructure as Code:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CloudFormation-Dark.svg" alt="CloudFormation" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible-Dark.svg" alt="Ansible" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg" alt="Terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CloudFormation-Dark.svg" alt="CloudFormation" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ansible-Dark.svg" alt="Ansible" width="40" height="40"/>
 
 **CI/CD:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CircleCI-Dark.svg" alt="CircleCI" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ArgoCD-Dark.svg" alt="ArgoCD" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CircleCI-Dark.svg" alt="CircleCI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ArgoCD-Dark.svg" alt="ArgoCD" width="40" height="40"/>
 
 **Monitoring and Logging:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus-Dark.svg" alt="Prometheus" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus-Dark.svg" alt="Prometheus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40"/>
 
 **Programming and Scripting Languages:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript-Dark.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Go-Dark.svg" alt="Go" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript-Dark.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Go-Dark.svg" alt="Go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
 
 **Containerization:**  
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes-Dark.svg" alt="Kubernetes" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker-Dark.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes-Dark.svg" alt="Kubernetes" width="40" height="40"/>
 
 ## 📬 Let's Connect
 
