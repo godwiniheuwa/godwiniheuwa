@@ -11,22 +11,22 @@ I'm **Godwin Iheuwa**, a passionate DevOps Engineer with a strong background in 
 ## 🛠️ Technologies and Tools
 
 **Cloud:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 **Infrastructure as Code:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg" alt="Terraform" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CloudFormation.svg" alt="CloudFormation" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ansible.svg" alt="Ansible" width="40" height="40"/>
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)
 
 **CI/CD:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="40" height="40"/> ![CircleCI](https://img.shields.io/badge/CircleCI-%233EAAAF.svg?style=flat&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23205384.svg?style=flat&logo=argo&logoColor=white)||<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CircleCI-Dark.svg" alt="CircleCI" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitHubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ArgoCD-Dark.svg" alt="ArgoCD" width="40" height="40"/>
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-%233EAAAF.svg?style=flat&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23205384.svg?style=flat&logo=argo&logoColor=white)
 
 **Monitoring and Logging:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prometheus.svg" alt="Prometheus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40"/>
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
 
 **Programming and Scripting Languages:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GoLang.svg" alt="Go" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 
 **Containerization:**  
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" alt="Docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kubernetes.svg" alt="Kubernetes" width="40" height="40"/>
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ## 📬 Let's Connect
 
