@@ -11,38 +11,30 @@ I'm **Godwin Iheuwa**, a passionate DevOps Engineer with a strong background in 
 ## 🛠️ Technologies and Tools
 
 **Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="40" height="40"/>
 
 **Infrastructure as Code:**  
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=flat&logo=ansible&logoColor=white)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CloudFormation-Dark.svg" alt="CloudFormation" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ansible-Dark.svg" alt="Ansible" width="40" height="40"/>
 
 **CI/CD:**  
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-%233EAAAF.svg?style=flat&logo=circleci&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=github-actions&logoColor=white)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="Jenkins" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CircleCI-Dark.svg" alt="CircleCI" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHubActions-Dark.svg" alt="GitHub Actions" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ArgoCD-Dark.svg" alt="ArgoCD" width="40" height="40"/>
 
 **Monitoring and Logging:**  
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Prometheus-Dark.svg" alt="Prometheus" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="Grafana" width="40" height="40"/>
 
 **Programming and Scripting Languages:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript-Dark.svg" alt="JavaScript" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Go-Dark.svg" alt="Go" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40"/>
 
 **Containerization:**  
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" alt="Docker" width="40" height="40"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes-Dark.svg" alt="Kubernetes" width="40" height="40"/>
 
 ## 📬 Let's Connect
 
 Feel free to reach out to me for collaboration, networking, or just a chat about technology and innovation.
 
-- [LinkedIn](https://www.linkedin.com/in/godwin-iheuwa)
-- [GitHub](https://github.com/godwiniheuwa)
-- [Twitter](https://twitter.com/godwiniheuwa)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/godwin-iheuwa)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/godwiniheuwa)
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/godwiniheuwa)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:godwin.iheuwa@gmail.com)
 
 Looking forward to connecting with like-minded professionals and exploring exciting opportunities in the DevOps space!
