@@ -11,8 +11,7 @@ I'm **Godwin Iheuwa**, a passionate DevOps Engineer with a strong background in 
 ## 🛠️ Technologies and Tools
 
 **Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 **Infrastructure as Code:**  
@@ -42,8 +41,8 @@ I'm **Godwin Iheuwa**, a passionate DevOps Engineer with a strong background in 
 
 Feel free to reach out to me for collaboration, networking, or just a chat about technology and innovation.
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [GitHub](https://github.com/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/godwin-iheuwa)
+- [GitHub](https://github.com/godwiniheuwa)
+- [Twitter](https://twitter.com/godwiniheuwa)
 
 Looking forward to connecting with like-minded professionals and exploring exciting opportunities in the DevOps space!
